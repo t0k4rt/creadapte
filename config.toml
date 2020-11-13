@@ -1,4 +1,4 @@
-baseURL = "http://www.creadapte.fr/"
+baseURL = "https://creadapte.onrender.com/"
 languageCode = "fr-fr"
 paginate = 6
 theme = "portio"
