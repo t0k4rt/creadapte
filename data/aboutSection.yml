@@ -12,7 +12,7 @@ content: >
   ### Mon histoire
   
   Souffrant d'un cancer du sein, j’avais des difficultés à m’habiller.
-  Pour palier à cela j'ai décidé de me confectionner mes propres vêtements, faciles à enfiler, adapatés à ma situation.  
+  Pour palier à cela j'ai décidé de me confectionner mes propres vêtements, faciles à enfiler, adaptés à ma situation.  
   
 
   Au fil des demandes et des créations, j'ai décidé à l'occasion d'une reconversion professionnelle d'en faire mon a activité pour aider les autres comme cela m'a aidé.
@@ -21,4 +21,4 @@ button1Name: Me contacter
 # button2Name: Download CV
 button1Target: contact
 #button2Target: contact
-image: images/about/about-img.jpg
+image: images/about/couture.jpg
