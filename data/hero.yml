@@ -1,16 +1,19 @@
 ---
 enable: true
-topTitle: Je crée des vêtements adaptés à tous
+topTitle: Je crée des vêtements adaptés à tous.
 content: >
-  Vous êtes âgées avec une perte d’autonomie,  
+  Vous êtes âgés et en perte d’autonomie,  
   
-  Souffrez d'un handicap où d'une maladie invalidante,  
+  
+  Vous souffrez d'un handicap, temporaire ou non, ou d'une maladie invalidante,  
 
-  Future maman à la recherche de vêtements adaptés  
 
-  Ou tout simplement avez des difficultés à vous habiller ou à habiller un de vos proches.  
+  Vous êtes une future maman à la recherche de vêtements adaptés,  
 
-  ### Je crée et adapte des vêtements pour vous
+
+  Ou, tout simplement, vous avez des difficultés à vous habiller ou à habiller un de vos proches ?  
+
+  ### Je crée et adapte des vêtements pour vous.
 buttonName: Contactez-moi
 buttonURL: contact
 image: images/hero/vero.jpg
