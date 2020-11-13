@@ -1,0 +1,26 @@
+---
+enable: true
+topTitle: Témoignages
+title: >
+  ## On parle de Créadapte !
+
+testimonial:
+  - name: Ouest France
+    comment: >
+      > « Créadapte » est une start-up lancée à La Roche-sur-Yon par Véronique Loiseau. Cette ancienne aide à domicile a décidé de coudre des vêtements adaptés aux personnes en situation de handicap ou à mobilité réduite.  
+
+      A retrouver sur [Ouest France](https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/la-roche-sur-yon-elle-cree-des-vetements-pour-les-personnes-a-mobilite-reduite-7001768) !
+    time: 06/10/2020
+  - name: DIG RADIO MONTAIGU
+    comment: >
+      > Ayant travaillé dans une boucherie, un magasin de bricolage et plus récemment dans l'aide à domicile, Véronique Loiseau vient d'ouvrir son atelier de couture à domicile.  
+
+
+      A écouter en podcast sur [DigRadio](https://digradio-nordvendee.fr/podcasts/l-invite-du-09-octobre-2020-veronique-loiseau-creadapte-1628)
+    time: 09/10/2020
+  - name: Océane FM
+    comment: >
+      > Véronique Loiseau est passé d’aide à domicile à créatrice de vêtement…. Une reconversion professionnelle à 59 ans, aujourd'hui Véronique modifie et adapte des vêtements pour les personnes en situation de handicap ou à mobilité réduite.  
+      
+      A écouter en podcast sur [Océane FM](https://octopus.saooti.com/main/pub/podcast/6538?productor=c2092cc6-21a9-4eb1-8951-e9d3a7acf8b1)
+    time: 09/10/2020

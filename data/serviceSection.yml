@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Mes compétences
+title: >
+  ### Pourquoi faire appel à moi ? 
+
+service:
+  - content: >
+      #### Je comprends vos besoins
+
+      je connais la problématique de l’habillage par mon expérience d’AVS dans l’aide à domicile.  
+
+      Je me déplace, vous écoute et nous évaluons ensemble vos besoins.  
+
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Je crée sur mesure vos vêtements
+
+      Je réalise des vêtements sur mesure mais peut aussi travailler sur des vêtements existant.  
+
+      Vous vous sentirez toujours bien dans des vêtements que vous aimez.
+    image: images/service/web.svg
+  - content: >
+      #### Le choix des matières
+
+      &nbsp;  
+
+      Mes matières sont et mes tissus sont issues principalement de filières OEKO-TEX.  
+
+      Je me fournis au possible auprès d'entreprises et fournisseurs français(es).
+    image: images/service/creative.svg
+
+  - content: >
+      #### Une démarche écoresponsable
+
+      Je réalises mes propres pochettes d’emballage et étiquettes à l'aide de tissu recyclés
+      J’adopte une démarche zéro déchets en réutilisant le plus de matière première.  
+    image: images/service/creative.svg
