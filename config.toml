@@ -57,10 +57,10 @@ weight = 7
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
-footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
+footerLogo = "images/contact/logo.png"
 
 [params.address]
 address = "6 rue gounod, 85000 La roche sur yon"
