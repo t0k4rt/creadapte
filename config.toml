@@ -64,7 +64,7 @@ footerLogo = "images/contact/logo.png"
 
 [params.address]
 address = "6 rue gounod, 85000 La roche sur yon"
-email = "creadapte@gmail.fr"
+email = "creadapte@gmail.com"
 # openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "(+33) 06 60 43 27 02"
 
